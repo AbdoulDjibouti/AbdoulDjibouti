@@ -1,5 +1,5 @@
-# Hi I'm Abdoul, I'm senior in computer science. 
-- 👀 I’m interested exploring the Artifial Intelligence
+# Hi 👋 I'm Abdoul, I'm senior at SFSU 💻
+- 👀 Still building myself
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking for an internship 
 - 📫 How to reach me: aabdillahid@gmail.com
