@@ -1,7 +1,7 @@
 # Hi 👋 I'm Abdoul, I'm senior at SFSU 💻
 - 👀 Still building myself
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking for an internship 
+- 🌱 I’m currently learning programming methodology, Software Development, and Intro Web Development
+- 💞️ I’m looking for summer 2022 internship
 - 📫 How to reach me: aabdillahid@gmail.com
 
 <!---
